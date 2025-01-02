@@ -1,0 +1,6 @@
+if SHIELD_SQUARETIPS
+
+config ZMK_KEYBOARD_NAME
+    default "t10"
+
+endif
