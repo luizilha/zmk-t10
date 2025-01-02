@@ -14,8 +14,8 @@
         wakeup-source;
 
         input-gpios = 
-              <&gpio0 0 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>, 
-              <&gpio0 1 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>
+              <&xiao_d 0 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>, 
+              <&xiao_d (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>
             ;
     };
 };
