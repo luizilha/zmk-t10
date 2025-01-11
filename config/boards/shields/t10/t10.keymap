@@ -20,16 +20,16 @@
 
         default_layer {
             bindings = <
-                &lt 1 C_MUTE
-                &kp C_VOL_DN
-                &kp C_VOL_UP
-                &kp C_PREV
-                &kp C_NEXT
-                &kp LEFT 
-                &kp DOWN     
-                &kp UP       
-                &kp RIGHT
-                &kp LSHIFT
+                &kp 0
+                &kp 1
+                &kp 2
+                &kp 3
+                &kp 4
+                &kp 5 
+                &kp 6     
+                &kp 7       
+                &kp 8
+                &kp 9
             >;
         };
 
