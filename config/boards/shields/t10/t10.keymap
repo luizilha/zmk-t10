@@ -20,14 +20,14 @@
 
         default_layer {
             bindings = <
-                &lt 1 C_MUTE
-                &kp C_VOL_DN
-                &kp C_VOL_UP
-                &kp C_NEXT
-                &kp LEFT 
-                &kp DOWN     
-                &kp UP       
-                &kp RIGHT 
+                &kp COMMA
+                &kp DOT
+                &kp Z
+                &kp X
+                &kp C 
+                &kp V     
+                &kp B       
+                &kp N
             >;
         };
 
