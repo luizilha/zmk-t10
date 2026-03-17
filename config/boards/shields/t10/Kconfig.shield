@@ -1,2 +1,2 @@
-config SHIELD_SQUARETIPS
+config SHIELD_T10
     def_bool $(shields_list_contains, t10)

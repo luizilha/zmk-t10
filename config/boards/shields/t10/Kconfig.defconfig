@@ -1,4 +1,4 @@
-if SHIELD_SQUARETIPS
+if SHIELD_T10
 
 config ZMK_KEYBOARD_NAME
     default "t10"
