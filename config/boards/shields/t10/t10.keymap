@@ -27,7 +27,7 @@
                 &kp C 
                 &kp V     
                 &kp B       
-                &kp N
+                &bt BT_CLR
             >;
         };
 
