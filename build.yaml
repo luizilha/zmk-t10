@@ -19,7 +19,7 @@
 #
 ---
 include:
-  - board: xiao_ble//zmk
+  - board: nice_nano//zmk
     shield: t10
-  - board: xiao_ble//zmk
+  - board: nice_nano//zmk
     shield: settings_reset
